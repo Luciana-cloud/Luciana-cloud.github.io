@@ -1,5 +1,11 @@
 ---
-title: "Luciana Cloud"
+title: "Data model integration across scales "
 ---
 
-Connecting data and models across different scales.
+My name is Luciana Chavez Rodriguez. I am a Peruvian environmental soil modeler that aims to connect data to models across different scales. The main topics that define my work so far are: 
+
+- *Complex systems*: I mainly model microbiological processes in soils, which are complex systems. 
+- *Mathematical modeling*: I used mechanistic and statistical models to understand biogeochemical and biological processes occurring in soils.
+- *Data scavenging*: I team up with experimentalists to help with data interpretation. 
+
+![](me1.JPG){ width=50% }

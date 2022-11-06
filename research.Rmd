@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+All my work can be defined or seeks data-model integration. 
+
+![](data.JPG){ width=90% }
+
+## Microbial regulation of pesticide degradation in soils
+
+## Optimal design of experiments
+
+## Field data modeling
+
+## Omics data into trait-based models

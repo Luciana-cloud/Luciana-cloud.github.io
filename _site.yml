@@ -5,5 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Teaching-Outreach"
+      href: teach_out.html
+    - text: "Contact me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
