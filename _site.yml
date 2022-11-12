@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Luciana Cloud"
   left:
-    - text: "Home"
+    - text: "About me"
       href: index.html
     - text: "Research"
       href: research.html
     - text: "Publications"
       href: publications.html
-    - text: "Teaching-Outreach"
+    - text: "Miscellaneous"
       href: teach_out.html
     - text: "Contact me"
       href: about.html
