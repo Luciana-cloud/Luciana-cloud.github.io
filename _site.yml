@@ -1,7 +1,7 @@
 name: "Luciana-website"
 output_dir: "."
 navbar:
-  title: "Luciana Cloud"
+  title: "Luciana Chavez Rodriguez"
   left:
     - text: "About me"
       href: index.html
