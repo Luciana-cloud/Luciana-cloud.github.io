@@ -14,7 +14,7 @@
 <title>research.knit</title>
 
 <script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
-<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -273,14 +273,23 @@ $(document).ready(function () {
 </div>
 
 
-<div id="model-development-and-uncertainty-quantification"
-class="section level2">
-<h2><strong>Model Development and Uncertainty
-Quantification</strong></h2>
-<div id="microbial-regulation-of-pesticide-degradation-in-soils"
+<div id="model-development" class="section level2">
+<h2><strong>Model Development</strong></h2>
+<p>“Essentially, all models are wrong, but some are useful” [1].
+Therefore, it is essential to further develop conceptual and
+mathematical models to account for new processes not yet incorporated
+into current models. During my Ph.D., I developed genetic trait-based
+models by integrating molecular biology data into a mechanistic
+model.</p>
+<p>[1] George E. P. Box. (1976). Science and Statistics. Journal of the
+American Statistical Association, 71(356), 791–799. <a
+href="https://doi.org/10.2307/2286841"
+class="uri">https://doi.org/10.2307/2286841</a></p>
+<div
+id="model-development---microbial-regulation-of-pesticide-degradation-in-soils"
 class="section level3">
-<h3><strong>Microbial regulation of pesticide degradation in
-soils</strong></h3>
+<h3>Model Development - Microbial regulation of pesticide degradation in
+soils</h3>
 <p>I explored the role of i) regulated gene expression, ii)
 mass-transfer process across the bacterial cell membranes, iii)
 bioenergetic constraints, and iv) environmental factors (soil
@@ -324,40 +333,42 @@ persistence in soils.</p>
 <p><img src="figure_3.png" style="width:50.0%" /></p>
 </div>
 </div>
-<div id="parameter-estimation" class="section level2">
-<h2><strong>Parameter Estimation</strong></h2>
-<div id="omics-data-into-trait-based-models" class="section level3">
-<h3><strong>Omics data into trait-based models</strong></h3>
-<p>Trait-based models have been used to explore the effects of changes
-in environmental conditions on microbial community assembly and the
-subsequent effects on soil biogeochemical processes. However, in order
-to use trait-based models for predictions, robust model calibration, as
-well as validation against empirical measurements, are needed.
-Typically, model parameter values are retrieved from physiological
-laboratory assays. However, these assays are limited to the culturable
-minority of soil microbiome taxa. In this context, omics data emerge as
-a rich data source to estimate trait values for a larger portion of the
-soil microbiome. This data-model integration pipeline, we expect to
-strengthen model predictions for these environments.</p>
+<div id="parameter-estimation-and-model-validation"
+class="section level2">
+<h2><strong>Parameter estimation and model validation</strong></h2>
+<p>The interpretation and further application of model results are
+limited without proper calibration of the models and validation of the
+modeling results. I am currently working on creating a new pipeline to
+estimate trait-based model parameters from metagenome-assembled genomes
+(MAGs). Typically, model parameter values are retrieved from
+physiological laboratory assays. However, these assays are limited to
+the culturable minority of soil microbiome taxa. In this context, omics
+data emerge as a rich data source to estimate trait values for a larger
+portion of the soil microbiome. This data-model integration pipeline, we
+expect to strengthen model predictions for soil carbon emissions
+estimations.</p>
 <p><img src="figure_5.jpg" style="width:50.0%" /></p>
-</div>
 </div>
 <div id="optimal-design-of-experiments" class="section level2">
 <h2><strong>Optimal design of experiments</strong></h2>
 <p>The lack of informative data for the validation of model processes
-hampered model development. Therefore, in the fourth part of this
-thesis, I used atrazine with its rather complex degradation pathway to
-apply a prospective optimal design method to find the optimal
-experimental designs to enable us identifying the degradation pathway
-present in a given environment. The optimal designs found suggest to
-prioritize determining metabolites and biomass of specific degraders,
-which are not typically measured in environmental fate studies. These
-data will lead to more robust model formulations for risk assessment and
+hampered model development. Therefore, in the fourth part of my thesis,
+I used atrazine with its rather complex degradation pathway to apply a
+prospective optimal design method to find the optimal experimental
+designs to enable us identifying the degradation pathway present in a
+given environment. The optimal designs found suggest to prioritize
+determining metabolites and biomass of specific degraders, which are not
+typically measured in environmental fate studies. These data will lead
+to more robust model formulations for risk assessment and
 decision-making.</p>
 <p><img src="figure_test.png" style="width:50.0%" /></p>
 </div>
 <div id="data-analysis" class="section level2">
 <h2><strong>Data Analysis</strong></h2>
+<p>I am currently using statistical modeling and spatial interpolation
+to understand plant-soil water interactions in Southern California
+landscapes and microbial-mediated wood mass losses along a precipitation
+gradient in Australia.</p>
 </div>
 
 
