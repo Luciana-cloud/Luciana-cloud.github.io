@@ -4,7 +4,10 @@ title: "Contact me"
 
 Feel free to reach out for research collaborations and job opportunities. 
 
-- [Twitter](https://twitter.com/LucianaChavezR1)
-- [luciana.ch41@gmail.com](luciana.ch41@gmail.com)
-- [Github](https://github.com/Luciana-cloud)
-- [orcid](https://orcid.org/0000-0003-1510-6695)
+[<img src="icons8-twitter-16.png">](https://twitter.com/LucianaChavezR1) 
+
+[<img src="icons8-gmail-logo-48.png">](mailto:luciana.ch41@gmail.com) 
+
+[<img src="icons8-github-24.png">](https://github.com/Luciana-cloud)
+
+I am looking forward to hearing from you.
