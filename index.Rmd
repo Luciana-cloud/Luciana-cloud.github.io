@@ -20,6 +20,5 @@ I am a soil modeler convinced that models and data complement each other and sho
 
 My research focuses mainly on modeling microbial processes that mediate biogeochemical cycling in soils. It includes the development of conceptual and mathematical models as well as validation of model assumptions with data. To obtain the necessary data, I use data scavenging and I team up with experimentalists. Through models, I can help not only with data interpretation, but also guide data collection and experimental setups by using optimal design of experiments techniques. 
 
-[CV](Curriculum_vitae.pdf) 
 
 
