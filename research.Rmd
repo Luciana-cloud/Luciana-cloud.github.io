@@ -6,9 +6,12 @@ The interpretation and further application of model results are limited without 
 
 ![](figure_5.jpg){width=50%}
 
+
 ### **Data Analysis**
 
 I am currently using statistical modeling and spatial interpolation to understand plant-soil water interactions in Southern California landscapes and microbial-mediated wood mass losses along a precipitation gradient in Australia. 
+
+
 
 # **Past Research**
 
@@ -27,17 +30,20 @@ Gene-centric models, explicitly incorporating gene and enzyme expression, predic
 
 ![](figure_1.jpg){width=50%}
 
+
 **Mass-transfer process across the bacterial cell membranes and bioenergetic constraints**
 
 I targeted the pesticide atrazine, which is highly persistent. The model included mass-transfer process via passive diffusion and bioenergetic constraints via transition state theory. Additionally, equilibrium sorption and leaching fluxes were added to better simulate soil processes. My results point out that sorption limited bioavailability could explain the long-term fate and persistence of the main degradation metabolite hydroxyatrazine. However, my model overestimated the long-term biodegradation of atrazine in soils, indicating that more processes than bioavailability are regulating atrazine degradation (Chavez Rodriguez et al. 2021).
 
 ![](Figure_2.jpg){width=50%}
 
+
 **Environmental factors (soil temperature and moisture)**
 
 Through a combination of lab experiments and modeling, I investigated MCPA degradation under different soil temperature (10°C and 20°C) and moisture (pF 1.8 and 3.5) regimes, and substrate concentrations (1 and 20 mg/Kg). M results show that microbial degrader populations degrade the pesticide even in colder and drier soils and at low substrate concentrations. By measuring and simulating a higher carbon use efficiency (CUE), I could confirm that microbial degraders are able to cope with such limiting conditions by allocating more carbon to their biomass as a result of potential physiological adaptation. Therefore, extreme environmental conditions are unlikely to explain pesticide persistence in soils.
 
 ![](figure_3.png){width=50%}
+
 
 ### **Optimal design of experiments**
 
