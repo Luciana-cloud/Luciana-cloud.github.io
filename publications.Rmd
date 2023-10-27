@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+- Wirsching J., **Chavez Rodriguez L.**, Ditterich R., Pagel H., He R., Uksa M., Zwiener C., Kandeler E., Poll C. (2023). Temperature and soil moisture change microbial allocation of pesticide-derived carbon. European Journal of Soil Science. https://doi.org/10.1111/ejss.13417
+
+- **Chavez Rodriguez L.**., Parker, Scot., Fiore Nicole M., Allison, Steven D., Goulden, Michael L. (2023). Impact of drought on ecohydrology of Southern California grassland and shrubland. Ecosystems. https://doi.org/10.1007/s10021-023-00876-8
+
 - Schwarz E., Khurana S., Chakrawal A., **Chavez Rodriguez L.**, Wirsching J., Streck T., Manzoni S., Thullner M., & Pagel, H.
 Environmental Science & Technology 2022 56 (20), 14427-14438. https://doi.org/10.1021/acs.est.2c03397
 
