@@ -17,7 +17,7 @@ See [here](Curriculum_vitae.pdf) for my complete CV.
 
 I am a soil modeler convinced that models and data complement each other and should be both included in projects. In my research, I use data-model integration techniques to describe the processes occurring in complex systems. 
 
-data_2.jpg){width=85%}
+![](data_2.jpg){width=85%}
 
 My research focuses mainly on modeling microbial processes that mediate biogeochemical cycling in soils. It includes the development of conceptual and mathematical models as well as validation of model assumptions with data. To obtain the necessary data, I use data scavenging and I team up with experimentalists. Through models, I can help not only with data interpretation, but also guide data collection and experimental setups by using optimal design of experiments techniques. 
 
