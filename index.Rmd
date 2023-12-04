@@ -8,7 +8,7 @@ I did my Ph.D. (Dr. agrar.) at the [department of biogeophysics](https://biogeop
 
 I also hold a bachelor and diploma degree in environmental engineering at the Universidad Nacional Agraria la Molina in Lima, Peru. The main focus of my engineering degree was on environmental pollution. In my diploma thesis about phytoremediation, I identified native plant species with the capability of extracting and accumulating lead from polluted soils. 
 
-![](me1.JPG){width=50%}
+![](me1.jpg){width=50%}
 
 See [here](Curriculum_vitae.pdf) for my complete CV.
 
