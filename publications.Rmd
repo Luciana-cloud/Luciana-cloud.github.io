@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## 2024
+
+- Wijas, B. J., Flores-Moreno, H., Allison, S. D., **Chavez Rodriguez L.**., Cheesman, A. W., Cernusak, L. A., Clement, R., Cornwell, W. K., Duan, E. S., Eggleton, P., Rosenfield, M. V., Yatsko, A. R., & Zanne, A. E. Drivers of wood decay in tropical ecosystems: Termites versus microbes along spatial, temporal and experimental precipitation gradients. Functional Ecology. https://doi.org/10.1111/1365-2435.14494
+
 ## 2023
 
 - Wirsching J., **Chavez Rodriguez L.**, Ditterich R., Pagel H., He R., Uksa M., Zwiener C., Kandeler E., Poll C. (2023). Temperature and soil moisture change microbial allocation of pesticide-derived carbon. European Journal of Soil Science. https://doi.org/10.1111/ejss.13417
@@ -23,3 +27,6 @@ Environmental Science & Technology 2022 56 (20), 14427-14438. https://doi.org/10
 
 - **Chavez Rodriguez, L.**, Ingalls, B., Schwarz, E., Streck, T., Uksa, M., & Pagel, H. (2020). Gene-Centric Model Approaches for Accurate Prediction of Pesticide Biodegradation in Soils. Environmental Science & Technology, 54(21), 13638–13650. https://doi.org/10.1021/acs.est.0c03315
 
+## In preparation
+
+- Duan, E. S.,**Chavez Rodriguez, L.**., Hemming-Schroeder, N., Wijas, B., Flores-Moreno, H., Cheesman, A. W., Cernusak, L. A., Liddell, M. J., Eggleton, P., Zanne, A. E., and Allison, S. D.: Wood microclimate as a predictor of carbon dioxide fluxes from deadwood in tropical Australia, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1952, 2023.

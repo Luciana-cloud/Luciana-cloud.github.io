@@ -2,3 +2,4 @@ setwd("C:/luciana_datos/UCI/Project_11 (Future)/others/website/Luciana-cloud.git
 
 #render your sweet site. 
 rmarkdown::render_site()
+

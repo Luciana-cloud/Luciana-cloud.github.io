@@ -1,55 +1,41 @@
-# **Current Research**
+<center> <h1>**Understanding the role of soil microorganisms in biogeochemical processes under global change** </h1> </center>
 
-### **Parameter estimation and model validation**
+**Global change** (encompassing climate change and pollution) is threatening natural ecosystems and human societies. Understanding and predicting how global change will affect these systems is crucial to **designing adaptation and mitigation strategies**. The soil biota helps provide multiple ecosystem services, and they can either buffer the effects of global change or increase their impact. Therefore, my work aims to:
 
-The interpretation and further application of model results are limited without proper calibration of the models and validation of the modeling results. I am currently working on creating a new pipeline to estimate trait-based model parameters from metagenome-assembled genomes (MAGs). Typically, model parameter values are retrieved from physiological laboratory assays. However, these assays are limited to the culturable minority of soil microbiome taxa. In this context, omics data emerge as a rich data source to estimate trait values for a larger portion of the soil microbiome. This data-model integration pipeline, we expect to strengthen model predictions for soil carbon emissions estimations.
+1) improve the representation of **microbial** and **biogeochemical** **processes** in **soil models** across **scales** and, 
+2) **quantify** and **reduce prediction** uncertainty of soil biogeochemical models under global change. 
 
-![](figure_5.jpg){width=50%}
+Using bottom-up and top-down strategies, I will explore the following research questions:
 
+### 1. What level of complexity of microbial-driven processes do we need to represent in soil biogeochemical models?
 
-### **Data Analysis**
+I am developing a **pipeline** that combines **omics data**, in the form of metagenome-assembled genomes (**MAGs**), with **trait-based models** (Figure 1). I am using **MAGs** in combination with **gene-annotation** tools (using the tool microTrait) and **flux balance analysis** to derive: i) fitness traits, ii) trait abundances under different environmental stressors (i.e., drought or fire), iii) emergent putative functional guilds, iv) emergent trait tradeoffs and v) kinetic parameters.
 
-I am currently using statistical modeling and spatial interpolation to understand plant-soil water interactions in Southern California landscapes and microbial-mediated wood mass losses along a precipitation gradient in Australia. 
+![](Figure1.png){width=75%}
 
+### 2. What microbial processes should be incorporated into mechanistic models addressing global change?
 
+I developed genetic trait-based models by integrating molecular biology data into a mechanistic model, exploring the role of:
 
-# **Past Research**
+i) regulated gene expression (Chavez Rodriguez et al., 2020), 
 
-### **Model Development - Microbial regulation of pesticide degradation in soils**
+ii) mass-transfer across the bacterial cell membrane and bioenergetic constraints (Chavez Rodriguez et al., 2021), 
 
-“Essentially, all models are wrong, but some are useful” [1]. Therefore, it is essential to further develop conceptual and mathematical models to account for new processes not yet incorporated into current models. During my Ph.D., I developed genetic trait-based models by integrating molecular biology data into a mechanistic model.
+iii) environmental factors (soil temperature and moisture) in pesticide degradation in soils (Wirsching et al., 2023). 
 
-[1] George E. P. Box. (1976). Science and Statistics. Journal of the American Statistical Association, 71(356), 791–799. https://doi.org/10.2307/2286841
+This workflow can similarly be used to **mechanistically** assess the role of different processes in the **degradation** of harmful **xenobiotics** like antibiotics or micropollutants in soils and their potentially harmful effects on soil ecosystems.
 
-During my Ph.D., I explored the role of i) regulated gene expression, ii) mass-transfer process across the bacterial cell membranes, iii) bioenergetic constraints, and iv) environmental factors (soil temperature and moisture).
+### 3. How can we reduce the uncertainty of soil biogeochemical model predictions and optimize resources?
 
+I used atrazine degradation to apply a **prospective optimal design** method to find the best **experimental designs** that enable us to identify its degradation pathway present in a given environment (Chavez Rodriguez et al., 2022). The optimal design suggested **prioritizing metabolites** and biomass of specific degraders, which are not typically measured in environmental fate studies.
 
-**Regulated gene expression** 
+![](figure_test.png){width=75%}
 
-Gene-centric models, explicitly incorporating gene and enzyme expression, predict pesticide mineralization as good as the standard Monod model. Additionally accounting for pesticide-triggered gene regulation, allow us to better capture microbial dynamics during pesticide mineralization. This way, the gene-centric models could be used to explore the relationship between transcription of functional genes and process rates, thereby offering an advantage over the standard Monod model (Chavez Rodriguez et al. 2020).
+### 4. How do we incorporate our knowledge across scales?
 
-![](figure_1.jpg){width=50%}
+Using top-down approaches, we found that climate variables are insufficient to predict $CO_2$ emissions from woody debris decomposition, and information on local wood traits and microbial and insect activities is essential to be incorporated into ecosystem models for robust predictions.  
 
-
-**Mass-transfer process across the bacterial cell membranes and bioenergetic constraints**
-
-I targeted the pesticide atrazine, which is highly persistent. The model included mass-transfer process via passive diffusion and bioenergetic constraints via transition state theory. Additionally, equilibrium sorption and leaching fluxes were added to better simulate soil processes. My results point out that sorption limited bioavailability could explain the long-term fate and persistence of the main degradation metabolite hydroxyatrazine. However, my model overestimated the long-term biodegradation of atrazine in soils, indicating that more processes than bioavailability are regulating atrazine degradation (Chavez Rodriguez et al. 2021).
-
-![](Figure_2.jpg){width=50%}
-
-
-**Environmental factors (soil temperature and moisture)**
-
-Through a combination of lab experiments and modeling, I investigated MCPA degradation under different soil temperature (10°C and 20°C) and moisture (pF 1.8 and 3.5) regimes, and substrate concentrations (1 and 20 mg/Kg). M results show that microbial degrader populations degrade the pesticide even in colder and drier soils and at low substrate concentrations. By measuring and simulating a higher carbon use efficiency (CUE), I could confirm that microbial degraders are able to cope with such limiting conditions by allocating more carbon to their biomass as a result of potential physiological adaptation. Therefore, extreme environmental conditions are unlikely to explain pesticide persistence in soils.
-
-![](figure_3.png){width=50%}
-
-
-### **Optimal design of experiments**
-
-The lack of informative data for the validation of model processes hampered model development. Therefore, in the fourth part of my thesis, I used atrazine with its rather complex degradation pathway to apply a prospective optimal design method to find the optimal experimental designs to enable us identifying the degradation pathway present in a given environment. The optimal designs found suggest to prioritize determining metabolites and biomass of specific degraders, which are not typically measured in environmental fate studies. These data will lead to more robust model formulations for risk assessment and decision-making (Chavez Rodriguez et al. 2021).
-
-![](figure_test.png){width=50%}
+![](figure_4.png){width=75%}
 
 
 
