@@ -4,7 +4,9 @@ title: "Publications"
 
 ## 2024
 
-- Wijas, B. J., Flores-Moreno, H., Allison, S. D., **Chavez Rodriguez L.**., Cheesman, A. W., Cernusak, L. A., Clement, R., Cornwell, W. K., Duan, E. S., Eggleton, P., Rosenfield, M. V., Yatsko, A. R., & Zanne, A. E. Drivers of wood decay in tropical ecosystems: Termites versus microbes along spatial, temporal and experimental precipitation gradients. Functional Ecology. https://doi.org/10.1111/1365-2435.14494
+- Duan, E. S., **Chavez Rodriguez L.**., Hemming-Schroeder, N., Wijas, B., Flores-Moreno, H., Cheesman, A. W., Cernusak, L. A., Liddell, M. J., Eggleton, P., Zanne, A. E., and Allison, S. D. (2024). Climate-based prediction of carbon fluxes from deadwood in Australia, Biogeosciences, 21, 3321–3338, https://doi.org/10.5194/bg-21-3321-2024.
+
+- Wijas, B. J., Flores-Moreno, H., Allison, S. D., **Chavez Rodriguez L.**., Cheesman, A. W., Cernusak, L. A., Clement, R., Cornwell, W. K., Duan, E. S., Eggleton, P., Rosenfield, M. V., Yatsko, A. R., & Zanne, A. E. (2024). Drivers of wood decay in tropical ecosystems: Termites versus microbes along spatial, temporal and experimental precipitation gradients. Functional Ecology. https://doi.org/10.1111/1365-2435.14494
 
 ## 2023
 
@@ -14,8 +16,7 @@ title: "Publications"
 
 ## 2022
 
-- Schwarz E., Khurana S., Chakrawal A., **Chavez Rodriguez L.**, Wirsching J., Streck T., Manzoni S., Thullner M., & Pagel, H.
-Environmental Science & Technology 2022 56 (20), 14427-14438. https://doi.org/10.1021/acs.est.2c03397
+- Schwarz, E., Khurana, S., Chakrawal, A., **Chavez Rodriguez, L.**, Wirsching, J., Streck, T., Manzoni, S., Thullner, M., & Pagel, H. (2022). Spatial Control of Microbial Pesticide Degradation in Soil: A Model-Based Scenario Analysis. Environmental Science & Technology, 56(20), 14427–14438. https://doi.org/10.1021/acs.est.2c03397
 
 - **Chavez Rodriguez, L.**, Gonzalez-Nicolas, A., Ingalls, B., Streck, T., Nowak, W., Xiao, S., & Pagel, H. (2022). Optimal design of experiments to improve the characterisation of atrazine degradation pathways in soil. European Journal of Soil Science, 73(1). https://doi.org/10.1111/ejss.13211
 
@@ -27,6 +28,3 @@ Environmental Science & Technology 2022 56 (20), 14427-14438. https://doi.org/10
 
 - **Chavez Rodriguez, L.**, Ingalls, B., Schwarz, E., Streck, T., Uksa, M., & Pagel, H. (2020). Gene-Centric Model Approaches for Accurate Prediction of Pesticide Biodegradation in Soils. Environmental Science & Technology, 54(21), 13638–13650. https://doi.org/10.1021/acs.est.0c03315
 
-## In preparation
-
-- Duan, E. S.,**Chavez Rodriguez, L.**., Hemming-Schroeder, N., Wijas, B., Flores-Moreno, H., Cheesman, A. W., Cernusak, L. A., Liddell, M. J., Eggleton, P., Zanne, A. E., and Allison, S. D.: Wood microclimate as a predictor of carbon dioxide fluxes from deadwood in tropical Australia, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1952, 2023.
