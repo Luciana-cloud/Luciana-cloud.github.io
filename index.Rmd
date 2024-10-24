@@ -2,7 +2,7 @@
 title: "Data-model integration across scales "
 ---
 
-My name is 	**Luciana Chávez Rodriguez** and I am a postdoctoral scholar at the University of California, Irvine. I am currently a member of the [Allison Lab](https://allisonlab.bio.uci.edu/) and working on integration of field and laboratory data into statistical and mechanistic models.
+My name is 	**Luciana Chávez Rodriguez** and I am an assistant professor in the [Soil Biology Chair group](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/soil-biology-group.htm) at Wageningen University & Research, working on integrating the role of soil biota in biogeochemical models. Prior to this position, I was a postdoctoral scholar at the University of California, Irvine. I was a member of the [Allison Lab](https://allisonlab.bio.uci.edu/), working on integration of field and laboratory data into statistical and mechanistic models.
 
 I did my Ph.D. (Dr. agrar.) at the [department of biogeophysics](https://biogeophysik.uni-hohenheim.de/en) at the University of Hohenheim, Stuttgart, Germany, where I worked on modeling microbial processes of pesticide degradation in soils. I received my masters degree, also from the University of Hohenheim, in Environmental Protection and Agricultural food production.
 
@@ -10,7 +10,7 @@ I also hold a bachelor and diploma degree in environmental engineering at the Un
 
 ![](me1.jpg){width=50%}
 
-See [here](Curriculum_vitae.pdf) for my complete CV.
+See [here](CV_chavez_rodriguez_2024.pdf) for my complete CV.
 
 
 ## Research interests
