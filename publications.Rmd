@@ -4,6 +4,8 @@ title: "Publications"
 
 ## 2024
 
+- Bertolet, B. L., **Chavez Rodriguez L.**, Murúa, J. M., Favela, A., & Allison, S. D. (2024). The Impact of Microbial Interactions on Ecosystem Function Intensifies Under Stress. Ecology Letters, 27(10), e14528. https://doi.org/10.1111/ele.14528
+
 - Anthony, W. E., Allison, S. D., Broderick, C. M., **Chavez Rodriguez L.**, Clum, A., Cross, H., Eloe-Fadrosh, E., Evans, S., Fairbanks, D., Gallery, R., Gontijo, J. B., Jones, J., McDermott, J., Pett-Ridge, J., Record, S., Rodrigues, J. L. M., Rodriguez-Reillo, W., Shek, K. L., Takacs-Vesbach, T., & Blanchard, J. L. (2024). From soil to sequence: filling the critical gap in genome-resolved metagenomics is essential to the future of soil microbial ecology. Environmental Microbiome, 19(1), 56. https://doi.org/10.1186/s40793-024-00599-w
 
 - Duan, E. S., **Chavez Rodriguez L.**., Hemming-Schroeder, N., Wijas, B., Flores-Moreno, H., Cheesman, A. W., Cernusak, L. A., Liddell, M. J., Eggleton, P., Zanne, A. E., and Allison, S. D. (2024). Climate-based prediction of carbon fluxes from deadwood in Australia, Biogeosciences, 21, 3321–3338, https://doi.org/10.5194/bg-21-3321-2024.
